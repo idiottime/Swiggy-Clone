@@ -1,0 +1,204 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#division1 {
+    width: 55%;
+    height: 75vh;
+    padding-left: 9rem;
+}
+
+#division2 {
+    width: 45%;
+    height: 75vh;
+}
+
+#container1 {
+    display: flex;
+}
+
+#chicken {
+    height: 100%;
+    width: 100%;
+}
+
+#swiggylogo {
+    height: 100px;
+    float: left;
+    position: relative;
+    bottom: 35px;
+}
+
+#navitems {
+    float: right;
+    list-style-type: none;
+    display: flex;
+}
+
+#subsection {
+    clear: both;
+}
+
+a {
+    text-decoration: none;
+    padding: 1rem;
+}
+
+#login {
+    padding-right: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#navbar {
+    position: relative;
+    padding-right: 100px;
+    padding-top: 90px;
+}
+
+#signup {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+#subsection{
+    padding-top: 50px;
+}
+
+#heading1{
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    line-height: 70px;
+    font-size: 2.5rem;
+}
+
+#wow1{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    font-size: 1.5rem;
+    padding-bottom: 25px;
+}
+
+#address{
+    width: 400px;
+    height: 50px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px;
+}
+
+#findfood{
+    height: 50px;
+    width: 115px;
+    background-color: #FC8019;
+    color: blue;
+}
+
+.popular{
+    font-size: 0.9rem;
+    color: #686B78;
+    font-family: 'Roboto', sans-serif;
+}
+
+#container2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #2B1E16;
+    color: white;
+    padding-top: 30px;
+    height: 400px;
+}
+
+.imgsd{
+    height: 15rem;
+}
+
+.column{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.titleish{
+    line-height: 65px;
+    font-weight: bold;
+    font-size: 1.17rem;
+}
+
+.dicrippiones{
+    color: #E0CBC1;
+    font-weight: bold;
+}
+
+#division3{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#division4{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+}
+
+.phone{
+    height: 29.9rem;
+
+}
+
+#container3{
+    display: flex;
+}
+
+.companies{
+    width: 200px;
+    height: 75px;
+}
+
+#inurpocket{
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    line-height: 100px;
+}
+
+#ordertext{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 65px;
+}
+
+footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 550px;
+    padding-left: 200px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.footercolumn{
+    padding-right: 400px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.grey{
+    color: grey;
+    font-weight: bold;
+    font-size: 1.17rem;
+}
+footer>div>ul>li{
+    line-height: 50px;
+}

@@ -1,0 +1,693 @@
+@media screen and (max-width:769px) {
+
+    #division1 {
+        width: 55%;
+        height: 75vh;
+        padding-left: 1rem;
+    }
+
+    #division2 {
+        width: 45%;
+        height: 75vh;
+    }
+
+    #container1 {
+        display: flex;
+        width: 100%;
+    }
+
+    #swiggylogo {
+        height: 100px;
+        display: block;
+        position: relative;
+        bottom: 35px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #navitems {
+        float: right;
+        list-style-type: none;
+        display: flex;
+    }
+
+    #navbar {
+        position: relative;
+        padding-right: 100px;
+        padding-top: 90px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .titleish {
+        font-size: 1rem;
+    }
+
+    .dicrippiones {
+        font-size: 0.75rem;
+    }
+
+    #division4 {
+        flex-direction: column;
+    }
+
+    .phone {
+        height: 23rem;
+    }
+
+    .companies {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #inurpocket {
+        font-size: 1.5em;
+    }
+
+    #ordertext {
+        font-size: 1em;
+    }
+
+    #thisdivtag {
+        padding-left: 60px;
+    }
+
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 100px;
+    }
+
+    .footercolumn {
+        padding-right: 100px;
+    }
+
+    .grey {
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+
+    footer>div>ul>li {
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width:1440px) {
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 400px;
+    }
+
+    .footercolumn {
+        padding-right: 100px;
+    }
+
+    .grey {
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+}
+
+@media screen and (max-width:1024px) {
+
+    #division1 {
+        width: 55%;
+        height: 75vh;
+        padding-left: 1rem;
+    }
+
+    #division2 {
+        width: 45%;
+        height: 75vh;
+    }
+
+    #container1 {
+        display: flex;
+        width: 100%;
+    }
+
+    #swiggylogo {
+        height: 100px;
+        display: block;
+        position: relative;
+        bottom: 35px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #navitems {
+        float: right;
+        list-style-type: none;
+        display: flex;
+    }
+
+    #navbar {
+        position: relative;
+        padding-right: 100px;
+        padding-top: 90px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .titleish {
+        font-size: 1rem;
+    }
+
+    .dicrippiones {
+        font-size: 0.75rem;
+    }
+
+    #division4 {
+        flex-direction: column;
+    }
+
+    .phone {
+        height: 23rem;
+    }
+
+    .companies {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #inurpocket {
+        font-size: 1.5em;
+    }
+
+    #ordertext {
+        font-size: 1em;
+    }
+
+    #thisdivtag {
+        padding-left: 60px;
+    }
+
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 100px;
+    }
+
+    .footercolumn {
+        padding-right: 100px;
+    }
+
+    .grey {
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+
+    footer>div>ul>li {
+        font-size: 0.9rem;
+    }
+}
+
+
+@media screen and (max-width:426px) {
+
+    #division1 {
+        width: 100%;
+    }
+
+    #division2 {
+        width: 100%;
+    }
+
+    #container1 {
+        display: block;
+    }
+
+    #heading1 {
+        font-size: 2rem;
+    }
+
+    #wow1 {
+        font-size: 1rem;
+    }
+
+    #address {
+        width: 250px;
+    }
+
+    #container2 {
+        height: 300px;
+    }
+
+    .imgsd {
+        height: 8rem;
+    }
+
+    .column {
+        margin-bottom: 30px;
+    }
+
+    .titleish {
+        font-size: 0.8rem;
+    }
+
+    #division3 {
+        width: 100%;
+        display: block;
+    }
+
+    #division4 {
+        width: 100%;
+        display: block;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .phone {
+        height: 15rem;
+    }
+
+    #container3 {
+        display: block;
+    }
+
+    .companies {
+        width: 150px;
+        display: inline;
+    }
+
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .footercolumn {
+        padding-right: 30px;
+    }
+
+    .grey {
+        color: grey;
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+
+    footer>div>ul>li {
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width:376px) {
+
+    #division1 {
+        width: 100%;
+    }
+
+    #division2 {
+        width: 100%;
+    }
+
+    #container1 {
+        display: block;
+    }
+
+    #heading1 {
+        font-size: 2rem;
+    }
+
+    #wow1 {
+        font-size: 1rem;
+    }
+
+    #address {
+        width: 200px;
+    }
+
+    #container2 {
+        height: 300px;
+    }
+
+    .imgsd {
+        height: 8rem;
+    }
+
+    .column {
+        margin-bottom: 30px;
+    }
+
+    .titleish {
+        font-size: 0.6rem;
+    }
+
+    #division3 {
+        width: 100%;
+        display: flex;
+    }
+
+    #division4 {
+        width: 100%;
+        display: block;
+        height: 300px;
+    }
+
+    #thisdivtag {
+        padding-left: 0px;
+    }
+
+    .phone {
+        height: 13rem;
+    }
+
+    #container3 {
+        display: block;
+    }
+
+    .companies {
+        width: 150px;
+        display: inline;
+    }
+
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .footercolumn {
+        padding-right: 30px;
+    }
+
+    .grey {
+        color: grey;
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+
+    footer>div>ul>li {
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width:321px) {
+
+    #division1 {
+        width: 100%;
+    }
+
+    #division2 {
+        width: 100%;
+    }
+
+    #container1 {
+        display: block;
+    }
+
+    #heading1 {
+        font-size: 2rem;
+    }
+
+    #wow1 {
+        font-size: 1rem;
+    }
+
+    #login {
+        padding-right: 20px;
+    }
+
+    #address {
+        width: 180px;
+    }
+
+    #container2 {
+        height: 300px;
+    }
+
+    .imgsd {
+        height: 8rem;
+    }
+
+    .column {
+        margin-bottom: 30px;
+    }
+
+    .titleish {
+        font-size: 0.6rem;
+    }
+
+    #division3 {
+        width: 100%;
+        display: flex;
+    }
+
+    #division4 {
+        width: 100%;
+        display: block;
+        height: 300px;
+    }
+
+    #thisdivtag {
+        padding-left: 0px;
+    }
+
+    .phone {
+        height: 12rem;
+    }
+
+    #container3 {
+        display: block;
+    }
+
+    .companies {
+        width: 150px;
+        display: inline;
+    }
+
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .footercolumn {
+        padding-right: 30px;
+    }
+
+    .grey {
+        color: grey;
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+
+    footer>div>ul>li {
+        line-height: 40px;
+        font-size: 0.8rem;
+    }
+}
+
+
+@media screen and (max-width:426px) {
+
+    #division1 {
+        width: 100%;
+    }
+
+    #division2 {
+        width: 100%;
+    }
+
+    #container1 {
+        display: block;
+    }
+
+    #heading1 {
+        font-size: 2rem;
+    }
+
+    #wow1 {
+        font-size: 1rem;
+    }
+
+    #address {
+        width: 250px;
+    }
+
+    #container2 {
+        height: 300px;
+    }
+
+    .imgsd {
+        height: 8rem;
+    }
+
+    .column {
+        margin-bottom: 30px;
+    }
+
+    .titleish {
+        font-size: 0.8rem;
+    }
+
+    #division3 {
+        width: 100%;
+        display: block;
+    }
+
+    #division4 {
+        width: 100%;
+        display: block;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .phone {
+        height: 15rem;
+    }
+
+    #container3 {
+        display: block;
+    }
+
+    .companies {
+        width: 150px;
+        display: inline;
+    }
+
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .footercolumn {
+        padding-right: 30px;
+    }
+
+    .grey {
+        color: grey;
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+
+    footer>div>ul>li {
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width:376px) {
+
+    #division1 {
+        width: 100%;
+    }
+
+    #division2 {
+        width: 100%;
+    }
+
+    #container1 {
+        display: block;
+    }
+
+    #heading1 {
+        font-size: 2rem;
+    }
+
+    #wow1 {
+        font-size: 1rem;
+    }
+
+    #address {
+        width: 200px;
+    }
+
+    #container2 {
+        height: 300px;
+    }
+
+    .imgsd {
+        height: 8rem;
+    }
+
+    .column {
+        margin-bottom: 30px;
+    }
+
+    .titleish {
+        font-size: 0.6rem;
+    }
+
+    #division3 {
+        width: 100%;
+        display: flex;
+    }
+
+    #division4 {
+        width: 100%;
+        display: block;
+        height: 300px;
+    }
+
+    #thisdivtag {
+        padding-left: 0px;
+    }
+
+    .phone {
+        height: 13rem;
+    }
+
+    #container3 {
+        display: block;
+    }
+
+    .companies {
+        width: 150px;
+        display: inline;
+    }
+
+    footer {
+        display: flex;
+        height: 550px;
+        padding-left: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .footercolumn {
+        padding-right: 30px;
+    }
+
+    .grey {
+        color: grey;
+        font-weight: bold;
+        font-size: 1.17rem;
+    }
+
+    footer>div>ul>li {
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width:2561px) {
+
+   
+}
